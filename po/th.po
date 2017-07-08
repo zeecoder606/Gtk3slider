@@ -1,0 +1,354 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-15 00:33-0500\n"
+"PO-Revision-Date: 2012-03-12 09:36+0200\n"
+"Last-Translator: Meechai <malaku38@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Slider Puzzle"
+msgstr "Slider Puzzle"
+
+#: SliderPuzzleActivity.py:162
+#, python-format
+msgid "Buddy '%(buddy)s' changed status: %(status)s"
+msgstr "เพื่อน '%(buddy)s' เปลี่ยนสถานะ: %(status)s"
+
+#: SliderPuzzleActivity.py:177
+msgid "Waiting for Puzzle image to be transferred..."
+msgstr "รอภาพปริศนาที่จะโอนย้าย..."
+
+#: SliderPuzzleActivity.py:346
+#, python-format
+msgid "Buddy '%s' joined the game!"
+msgstr "เพื่อน '%s' เข้าร่วมเกม"
+
+#: SliderPuzzleActivity.py:350
+#, python-format
+msgid "Buddy '%s' left the game!"
+msgstr "เพื่อน '%s' ออกจากเกม"
+
+#: SliderPuzzleUI.py:214
+msgid "Solve"
+msgstr "แก้ปัญหา"
+
+#: SliderPuzzleUI.py:218
+msgid "Shuffle"
+msgstr "สับเปลี่ยน"
+
+#: SliderPuzzleUI.py:222
+msgid "My Picture"
+msgstr "รูปภาพของฉัน"
+
+#: SliderPuzzleUI.py:258
+msgid "Time: "
+msgstr "เวลา: "
+
+#: SliderPuzzleUI.py:274 SliderPuzzleUI.py:576
+msgid "Lesson Plans"
+msgstr "บทเรียน"
+
+#: SliderPuzzleUI.py:291
+msgid "Waiting for remote game..."
+msgstr "รอเกมระยะไกล..."
+
+#: SliderPuzzleUI.py:335
+msgid "Select image and press Start Game..."
+msgstr "เลือกรูปภาพ และกดเริ่มเกม..."
+
+#: SliderPuzzleUI.py:339
+msgid "Waiting for Puzzle image to be chosen..."
+msgstr "กำลังรอปริศนาภาพที่ถูกเลือก..."
+
+#: SliderPuzzleUI.py:341 SliderPuzzleUI.py:350
+msgid "Buddies"
+msgstr "เพื่อน"
+
+#: SliderPuzzleUI.py:368
+msgid "Give Up"
+msgstr "ยอมแพ้"
+
+#: SliderPuzzleUI.py:370
+msgid "Start Game"
+msgstr "เริ่มเกม"
+
+#: SliderPuzzleUI.py:380
+msgid "Slider Puzzle Activity"
+msgstr "Slider Puzzle Activity"
+
+#: SliderPuzzleUI.py:462
+msgid "Puzzle Solved!"
+msgstr "แก้ไขปริศนาเสร็จแล้ว!"
+
+#: SliderPuzzleUI.py:465
+msgid "Gave Up"
+msgstr "ยอมแพ้"
+
+#: SliderPuzzleUI.py:493
+msgid "Choose a Subject"
+msgstr "เลือกหัวเรื่อง"
+
+#: SliderPuzzleUI.py:579
+msgid "Close Lesson"
+msgstr "ปิดบทเรียน"
+
+#: SliderPuzzleUI.py:649
+msgid "Game Started!"
+msgstr "เริ่มเกม"
+
+#: i18n_misc_strings.py:1
+msgid "Sea Life"
+msgstr "ชีวิตในทะเล"
+
+#: i18n_misc_strings.py:2
+msgid "Animals"
+msgstr "สัตว์"
+
+#: i18n_misc_strings.py:3
+msgid "Birds"
+msgstr "นก"
+
+#: i18n_misc_strings.py:4
+msgid "XO"
+msgstr "XO"
+
+#: i18n_misc_strings.py:5
+msgid "Sequencing Puzzles"
+msgstr "การเรียงลำดับปริศนา"
+
+#: i18n_misc_strings.py:6
+msgid "Sports"
+msgstr "กีฬา"
+
+#: i18n_misc_strings.py:7
+msgid "Insects"
+msgstr "แมลง"
+
+#: i18n_misc_strings.py:8
+msgid "Music"
+msgstr "ดนตรี"
+
+#: i18n_misc_strings.py:9
+msgid "Space"
+msgstr "อวกาศ"
+
+#: i18n_misc_strings.py:10
+msgid "Lesson 5"
+msgstr "บทที่ 5"
+
+#: i18n_misc_strings.py:11
+msgid "Lesson 4"
+msgstr "บทที่ 4"
+
+#: i18n_misc_strings.py:12
+msgid "Overview"
+msgstr "ภาพรวม"
+
+#: i18n_misc_strings.py:13
+msgid "Lesson 3"
+msgstr "บทที่ 3"
+
+#: i18n_misc_strings.py:14
+msgid "Lesson 7"
+msgstr "บทที่ 7"
+
+#: i18n_misc_strings.py:15
+msgid "Lesson 6"
+msgstr "บทที่ 6"
+
+#: i18n_misc_strings.py:16
+msgid "Lesson 1"
+msgstr "บทที่ 1"
+
+#: i18n_misc_strings.py:17
+msgid "Lesson 2"
+msgstr "บทที่ 2"
+
+#: mmm_modules/buddy_panel.py:49
+msgid "Buddy"
+msgstr "เพื่อน"
+
+#: mmm_modules/buddy_panel.py:55
+msgid "Status"
+msgstr "สถานะ"
+
+#: mmm_modules/buddy_panel.py:62
+msgid "Play Time"
+msgstr "เวลาเล่น"
+
+#: mmm_modules/buddy_panel.py:69
+msgid "Joined at"
+msgstr "เข้าร่วมที่"
+
+#: mmm_modules/buddy_panel.py:101
+msgid "synchronizing"
+msgstr "ทำให้ตรงกัน"
+
+#: mmm_modules/buddy_panel.py:115
+msgid "Playing"
+msgstr "กำลังเล่น"
+
+#: mmm_modules/buddy_panel.py:115
+msgid "Paused"
+msgstr "หยุดชั่วคราว"
+
+#: mmm_modules/buddy_panel.py:117
+msgid "Finished"
+msgstr "เสร็จสิ้น"
+
+#: mmm_modules/buddy_panel.py:119
+msgid "Gave up"
+msgstr "ยกเลิก"
+
+#: mmm_modules/buddy_panel.py:121
+msgid "Unknown"
+msgstr "ไม่ทราบ"
+
+#: mmm_modules/buddy_panel.py:123
+#, python-format
+msgid "%i minutes"
+msgstr "%i นาที"
+
+#: mmm_modules/i18n.py:36
+msgid "Chinese (simplified)"
+msgstr "ภาษาจีน (ย่อ)"
+
+#: mmm_modules/i18n.py:37
+msgid "Chinese (traditional)"
+msgstr "ภาษาจีน (ดั้งเดิม)"
+
+#: mmm_modules/i18n.py:38
+msgid "Czech"
+msgstr "ภาษาเช็ก"
+
+#: mmm_modules/i18n.py:39
+msgid "Danish"
+msgstr "ภาษาเดนมาร์ก"
+
+#: mmm_modules/i18n.py:40
+msgid "Dutch"
+msgstr "ภาษาดัทช์"
+
+#: mmm_modules/i18n.py:41
+msgid "English"
+msgstr "ภาษาอังกฤษ"
+
+#: mmm_modules/i18n.py:42
+msgid "English - Great Britain"
+msgstr "อังกฤษ - สหราชอาณาจักร"
+
+#: mmm_modules/i18n.py:43
+msgid "English - U.S."
+msgstr "ภาษาอังกฤษ - สหรัฐอเมริกา"
+
+#: mmm_modules/i18n.py:44
+msgid "Finnish"
+msgstr "ภาษาฟินแลนด์"
+
+#: mmm_modules/i18n.py:45
+msgid "French"
+msgstr "ภาษาฝรั่งเศส"
+
+#: mmm_modules/i18n.py:46
+msgid "German"
+msgstr "ภาษาเยอรมัน"
+
+#: mmm_modules/i18n.py:47
+msgid "Hungarian"
+msgstr "ภาษาฮังการี"
+
+#: mmm_modules/i18n.py:48
+msgid "Italian"
+msgstr "ภาษาอิตาลี"
+
+#: mmm_modules/i18n.py:49
+msgid "Japanese"
+msgstr "ภาษาญี่ปุ่น"
+
+#: mmm_modules/i18n.py:50
+msgid "Korean"
+msgstr "ภาษาเกาหลี"
+
+#: mmm_modules/i18n.py:51
+msgid "Norwegian"
+msgstr "ภาษานอร์เวย์"
+
+#: mmm_modules/i18n.py:52
+msgid "Polish"
+msgstr "ภาษาโปแลนด์"
+
+#: mmm_modules/i18n.py:53
+msgid "Portuguese"
+msgstr "ภาษาโปรตุเกส"
+
+#: mmm_modules/i18n.py:54
+msgid "Portuguese - Brazilian"
+msgstr "ภาษาโปรตุเกส - บราซิล"
+
+#: mmm_modules/i18n.py:55
+msgid "Russian"
+msgstr "ภาษารัสเซีย"
+
+#: mmm_modules/i18n.py:56
+msgid "Slovak"
+msgstr "ภาษาสโลวาเกีย"
+
+#: mmm_modules/i18n.py:57
+msgid "Spanish"
+msgstr "ภาษาสเปน"
+
+#: mmm_modules/i18n.py:58
+msgid "Swedish"
+msgstr "ภาษาสวีเดน"
+
+#: mmm_modules/i18n.py:59
+msgid "Turkish"
+msgstr "ภาษาตุรกี"
+
+#: mmm_modules/image_category.py:222
+msgid "Choose image"
+msgstr "เลือกรูปภาพ"
+
+#: mmm_modules/image_category.py:234
+msgid "Not a valid image file"
+msgstr "ไม่ใช่ไฟล์ภาพที่ถูกต้อง"

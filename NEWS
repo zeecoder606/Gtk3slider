@@ -1,0 +1,56 @@
+10
+
+- Return langs back by generating locale/ directory
+
+9
+
+- Update translations
+
+8
+
+* Add filter to ObjectChooser invoking
+
+7
+
+* Add COPYING file
+* #624 Several icons does not look nice in the ring
+* Make timer insensitive in lessons
+* Set timer's value after loading
+* Treat empty jobject properly
+* Init gthreads before using abiword
+* Update localization
+
+6
+
+* Fix MANIFEST
+* Fix po/ko.po
+* Git cleanups
+* Add license to activity.info (#8411, #8029)
+
+5
+
+* Updated copyright information
+* Added AUTHORS file
+
+4
+
+* Updated lesson plans.
+* Changed the way NotebookReader uses abiword Canvas, making open document look
+  consistent when opened multiple times.
+* Updated tube handling helper to match the new Presence API and removed local tubeconn.py.
+* Removed a little kungfu with soft links. This adds some files redundantly
+  across our activities, but makes activities self contained.
+
+3
+
+* Better UI (fullscreen).
+* Runtime dependency on MaMaMediaMenu (Creative Center) removed.
+* New icon.
+* Many bugfixes.
+
+2
+
+* Mesh contest support
+* Journal integration
+* Sequencing puzzles
+* My own image (from journal)

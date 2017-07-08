@@ -1,0 +1,357 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-15 00:33-0500\n"
+"PO-Revision-Date: 2008-08-07 01:31-0400\n"
+"Last-Translator: Odontsetseg Bat-Erdene <obat-erdene@suffolk.edu>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.1.0rc2\n"
+
+#: activity/activity.info:2
+msgid "Slider Puzzle"
+msgstr "Эвлүүлдэг таавар"
+
+#: SliderPuzzleActivity.py:162
+#, python-format
+msgid "Buddy '%(buddy)s' changed status: %(status)s"
+msgstr ""
+
+#: SliderPuzzleActivity.py:177
+msgid "Waiting for Puzzle image to be transferred..."
+msgstr "Тааврын дүрс шилжүүлэгдхийг хүлээж байна..."
+
+#: SliderPuzzleActivity.py:346
+#, python-format
+msgid "Buddy '%s' joined the game!"
+msgstr "'%s' найз тоглоомд нэгдлээ!"
+
+#: SliderPuzzleActivity.py:350
+#, python-format
+msgid "Buddy '%s' left the game!"
+msgstr "'%s' найз тоглоомоос гарлаа!"
+
+#: SliderPuzzleUI.py:214
+msgid "Solve"
+msgstr "Хариуг өгөх"
+
+#: SliderPuzzleUI.py:218
+msgid "Shuffle"
+msgstr "Холих"
+
+#: SliderPuzzleUI.py:222
+msgid "My Picture"
+msgstr "Миний Зураг"
+
+#: SliderPuzzleUI.py:258
+msgid "Time: "
+msgstr "Хугацаа: "
+
+#: SliderPuzzleUI.py:274 SliderPuzzleUI.py:576
+msgid "Lesson Plans"
+msgstr "Хичээлийн Төлөвлөгөө"
+
+#: SliderPuzzleUI.py:291
+msgid "Waiting for remote game..."
+msgstr "Гадны тоглоомыг хүлээж байна..."
+
+#: SliderPuzzleUI.py:335
+msgid "Select image and press Start Game..."
+msgstr "Зургыг сонгоод Тоглоомыг Эхлүүлэх товчыг дар..."
+
+#: SliderPuzzleUI.py:339
+msgid "Waiting for Puzzle image to be chosen..."
+msgstr "Тааврын зураг сонгогдохыг хүлээж байна..."
+
+#: SliderPuzzleUI.py:341 SliderPuzzleUI.py:350
+msgid "Buddies"
+msgstr "Найзууд"
+
+#: SliderPuzzleUI.py:368
+msgid "Give Up"
+msgstr "Бууж Өгөх"
+
+#: SliderPuzzleUI.py:370
+msgid "Start Game"
+msgstr "Тоглоомыг Эхлүүлэх"
+
+#: SliderPuzzleUI.py:380
+msgid "Slider Puzzle Activity"
+msgstr "Эвлүүлэх Тааврын Үйл Ажиллагаа"
+
+#: SliderPuzzleUI.py:462
+msgid "Puzzle Solved!"
+msgstr "Таавар Олдов!"
+
+#: SliderPuzzleUI.py:465
+msgid "Gave Up"
+msgstr "Бууж Өгсөн"
+
+#: SliderPuzzleUI.py:493
+msgid "Choose a Subject"
+msgstr "Сэдэв Сонгох"
+
+#: SliderPuzzleUI.py:579
+msgid "Close Lesson"
+msgstr "Хичээл Хаах"
+
+#: SliderPuzzleUI.py:649
+msgid "Game Started!"
+msgstr "Тоглоом Эхэлсэн!"
+
+#: i18n_misc_strings.py:1
+msgid "Sea Life"
+msgstr "Далайн Амьдрал"
+
+#: i18n_misc_strings.py:2
+msgid "Animals"
+msgstr "Амьтад"
+
+#: i18n_misc_strings.py:3
+msgid "Birds"
+msgstr "Шувууд"
+
+#: i18n_misc_strings.py:4
+msgid "XO"
+msgstr "XO"
+
+#: i18n_misc_strings.py:5
+msgid "Sequencing Puzzles"
+msgstr "Таавруудыг Дарааллуулж Байна"
+
+#: i18n_misc_strings.py:6
+msgid "Sports"
+msgstr "Спорт"
+
+#: i18n_misc_strings.py:7
+msgid "Insects"
+msgstr "Шавьж"
+
+#: i18n_misc_strings.py:8
+msgid "Music"
+msgstr "Хөгжим"
+
+#: i18n_misc_strings.py:9
+msgid "Space"
+msgstr "Сансар огторгуй"
+
+#: i18n_misc_strings.py:10
+msgid "Lesson 5"
+msgstr "Хичээл 5"
+
+#: i18n_misc_strings.py:11
+msgid "Lesson 4"
+msgstr "Хичээл 4"
+
+#: i18n_misc_strings.py:12
+msgid "Overview"
+msgstr "Тойм"
+
+#: i18n_misc_strings.py:13
+msgid "Lesson 3"
+msgstr "Хичээл 3"
+
+#: i18n_misc_strings.py:14
+msgid "Lesson 7"
+msgstr "Хичээл 7"
+
+#: i18n_misc_strings.py:15
+msgid "Lesson 6"
+msgstr "Хичээл 6"
+
+#: i18n_misc_strings.py:16
+msgid "Lesson 1"
+msgstr "Хичээл 1"
+
+#: i18n_misc_strings.py:17
+msgid "Lesson 2"
+msgstr "Хичээл 2"
+
+#: mmm_modules/buddy_panel.py:49
+msgid "Buddy"
+msgstr "Найз"
+
+#: mmm_modules/buddy_panel.py:55
+msgid "Status"
+msgstr "Статус"
+
+#: mmm_modules/buddy_panel.py:62
+msgid "Play Time"
+msgstr "Тоглоомын Цаг"
+
+#: mmm_modules/buddy_panel.py:69
+msgid "Joined at"
+msgstr "-д нэгдсэн"
+
+#: mmm_modules/buddy_panel.py:101
+msgid "synchronizing"
+msgstr "тохируулж байна"
+
+#: mmm_modules/buddy_panel.py:115
+msgid "Playing"
+msgstr "Тоглож Байна"
+
+#: mmm_modules/buddy_panel.py:115
+msgid "Paused"
+msgstr "Түр зогссон"
+
+#: mmm_modules/buddy_panel.py:117
+msgid "Finished"
+msgstr "Дууссан"
+
+#: mmm_modules/buddy_panel.py:119
+msgid "Gave up"
+msgstr "Бууж өгсөн"
+
+#: mmm_modules/buddy_panel.py:121
+msgid "Unknown"
+msgstr "Танигдаагүй"
+
+#: mmm_modules/buddy_panel.py:123
+#, python-format
+msgid "%i minutes"
+msgstr "%i минут"
+
+#: mmm_modules/i18n.py:36
+msgid "Chinese (simplified)"
+msgstr "Хятад хэл (хялбарчилсан)"
+
+#: mmm_modules/i18n.py:37
+msgid "Chinese (traditional)"
+msgstr "Хятад хэл (уламжлалт)"
+
+#: mmm_modules/i18n.py:38
+msgid "Czech"
+msgstr "Чех хэл"
+
+#: mmm_modules/i18n.py:39
+msgid "Danish"
+msgstr "Дани хэл"
+
+#: mmm_modules/i18n.py:40
+msgid "Dutch"
+msgstr "Голланд хэл"
+
+#: mmm_modules/i18n.py:41
+msgid "English"
+msgstr "Англи хэл"
+
+#: mmm_modules/i18n.py:42
+msgid "English - Great Britain"
+msgstr "Англи хэл - Их Британи"
+
+#: mmm_modules/i18n.py:43
+msgid "English - U.S."
+msgstr "Англи хэл - А.Н.У"
+
+#: mmm_modules/i18n.py:44
+msgid "Finnish"
+msgstr "Финлянд хэл"
+
+#: mmm_modules/i18n.py:45
+msgid "French"
+msgstr "Франц хэл"
+
+#: mmm_modules/i18n.py:46
+msgid "German"
+msgstr "Герман хэл"
+
+#: mmm_modules/i18n.py:47
+msgid "Hungarian"
+msgstr "Унгар хэл"
+
+#: mmm_modules/i18n.py:48
+msgid "Italian"
+msgstr "Итали хэл"
+
+#: mmm_modules/i18n.py:49
+msgid "Japanese"
+msgstr "Япон хэл"
+
+#: mmm_modules/i18n.py:50
+msgid "Korean"
+msgstr "Солонгос хэл"
+
+#: mmm_modules/i18n.py:51
+msgid "Norwegian"
+msgstr "Норвеги хэл"
+
+#: mmm_modules/i18n.py:52
+msgid "Polish"
+msgstr "Польш хэл"
+
+#: mmm_modules/i18n.py:53
+msgid "Portuguese"
+msgstr "Португали хэл"
+
+#: mmm_modules/i18n.py:54
+msgid "Portuguese - Brazilian"
+msgstr "Португали хэл - Бразил"
+
+#: mmm_modules/i18n.py:55
+msgid "Russian"
+msgstr "Орос хэл"
+
+#: mmm_modules/i18n.py:56
+msgid "Slovak"
+msgstr "Словак хэл"
+
+#: mmm_modules/i18n.py:57
+msgid "Spanish"
+msgstr "Испани хэл"
+
+#: mmm_modules/i18n.py:58
+msgid "Swedish"
+msgstr "Швед хэл"
+
+#: mmm_modules/i18n.py:59
+msgid "Turkish"
+msgstr "Турк хэл"
+
+#: mmm_modules/image_category.py:222
+msgid "Choose image"
+msgstr "Зураг сонгох"
+
+#: mmm_modules/image_category.py:234
+msgid "Not a valid image file"
+msgstr "Боломжит зургын файл биш"
+
+#, python-format
+#~ msgid "Buddy '%s' changed status: %s"
+#~ msgstr "'%s' найзын өөрчлөгдсөн статус: %s"

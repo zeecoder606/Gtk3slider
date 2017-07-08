@@ -1,0 +1,357 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-15 00:33-0500\n"
+"PO-Revision-Date: 2009-02-18 07:39-0500\n"
+"Last-Translator: Clytie Siddall <clytie@riverland.net.au>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.1.0rc2\n"
+
+#: activity/activity.info:2
+msgid "Slider Puzzle"
+msgstr "Câu đố trượt"
+
+#: SliderPuzzleActivity.py:162
+#, python-format
+msgid "Buddy '%(buddy)s' changed status: %(status)s"
+msgstr ""
+
+#: SliderPuzzleActivity.py:177
+msgid "Waiting for Puzzle image to be transferred..."
+msgstr "Đang đợi ảnh câu đố Trượt được truyền..."
+
+#: SliderPuzzleActivity.py:346
+#, python-format
+msgid "Buddy '%s' joined the game!"
+msgstr "Bạn bè « %s » mới vào lượt chơi !"
+
+#: SliderPuzzleActivity.py:350
+#, python-format
+msgid "Buddy '%s' left the game!"
+msgstr "Bạn bè « %s » mới ra khỏi lượt chơi !"
+
+#: SliderPuzzleUI.py:214
+msgid "Solve"
+msgstr "Giải"
+
+#: SliderPuzzleUI.py:218
+msgid "Shuffle"
+msgstr "Trộn"
+
+#: SliderPuzzleUI.py:222
+msgid "My Picture"
+msgstr "Ảnh của mình"
+
+#: SliderPuzzleUI.py:258
+msgid "Time: "
+msgstr "Giờ : "
+
+#: SliderPuzzleUI.py:274 SliderPuzzleUI.py:576
+msgid "Lesson Plans"
+msgstr "Kế hoạch bài học"
+
+#: SliderPuzzleUI.py:291
+msgid "Waiting for remote game..."
+msgstr "Đang đợi lượt chơi từ xa..."
+
+#: SliderPuzzleUI.py:335
+msgid "Select image and press Start Game..."
+msgstr "Chọn ảnh và bấm « Chơi... »"
+
+#: SliderPuzzleUI.py:339
+msgid "Waiting for Puzzle image to be chosen..."
+msgstr "Đang đợi ảnh là hình ghép được chọn..."
+
+#: SliderPuzzleUI.py:341 SliderPuzzleUI.py:350
+msgid "Buddies"
+msgstr "Bạn bè"
+
+#: SliderPuzzleUI.py:368
+msgid "Give Up"
+msgstr "Chịu thua"
+
+#: SliderPuzzleUI.py:370
+msgid "Start Game"
+msgstr "Chơi"
+
+#: SliderPuzzleUI.py:380
+msgid "Slider Puzzle Activity"
+msgstr "Hoạt động câu đố Trượt"
+
+#: SliderPuzzleUI.py:462
+msgid "Puzzle Solved!"
+msgstr "Câu đố đã được sắp đặt lại !"
+
+#: SliderPuzzleUI.py:465
+msgid "Gave Up"
+msgstr "Chịu thua"
+
+#: SliderPuzzleUI.py:493
+msgid "Choose a Subject"
+msgstr "Chọn một chủ đề"
+
+#: SliderPuzzleUI.py:579
+msgid "Close Lesson"
+msgstr "Đóng bài học"
+
+#: SliderPuzzleUI.py:649
+msgid "Game Started!"
+msgstr "Lượt chơi đã bắt đầu !"
+
+#: i18n_misc_strings.py:1
+msgid "Sea Life"
+msgstr "Sống ở biển"
+
+#: i18n_misc_strings.py:2
+msgid "Animals"
+msgstr "Động vật"
+
+#: i18n_misc_strings.py:3
+msgid "Birds"
+msgstr "Chim"
+
+#: i18n_misc_strings.py:4
+msgid "XO"
+msgstr "XO"
+
+#: i18n_misc_strings.py:5
+msgid "Sequencing Puzzles"
+msgstr "Câu đố đặt dãy"
+
+#: i18n_misc_strings.py:6
+msgid "Sports"
+msgstr "Thể thao"
+
+#: i18n_misc_strings.py:7
+msgid "Insects"
+msgstr "Sâu bộ"
+
+#: i18n_misc_strings.py:8
+msgid "Music"
+msgstr "Âm nhạc"
+
+#: i18n_misc_strings.py:9
+msgid "Space"
+msgstr "Vũ trụ"
+
+#: i18n_misc_strings.py:10
+msgid "Lesson 5"
+msgstr "Bài học 5"
+
+#: i18n_misc_strings.py:11
+msgid "Lesson 4"
+msgstr "Bài học 4"
+
+#: i18n_misc_strings.py:12
+msgid "Overview"
+msgstr "Toàn cảnh"
+
+#: i18n_misc_strings.py:13
+msgid "Lesson 3"
+msgstr "Bài học 3"
+
+#: i18n_misc_strings.py:14
+msgid "Lesson 7"
+msgstr "Bài học 7"
+
+#: i18n_misc_strings.py:15
+msgid "Lesson 6"
+msgstr "Bài học 6"
+
+#: i18n_misc_strings.py:16
+msgid "Lesson 1"
+msgstr "Bài học 1"
+
+#: i18n_misc_strings.py:17
+msgid "Lesson 2"
+msgstr "Bài học 2"
+
+#: mmm_modules/buddy_panel.py:49
+msgid "Buddy"
+msgstr "Bạn bè"
+
+#: mmm_modules/buddy_panel.py:55
+msgid "Status"
+msgstr "Trạng thái"
+
+#: mmm_modules/buddy_panel.py:62
+msgid "Play Time"
+msgstr "Thời gian chơi"
+
+#: mmm_modules/buddy_panel.py:69
+msgid "Joined at"
+msgstr "Nối lại ở"
+
+#: mmm_modules/buddy_panel.py:101
+msgid "synchronizing"
+msgstr "đang đồng bộ hoá"
+
+#: mmm_modules/buddy_panel.py:115
+msgid "Playing"
+msgstr "Đang chơi"
+
+#: mmm_modules/buddy_panel.py:115
+msgid "Paused"
+msgstr "Bị tạm dừng"
+
+#: mmm_modules/buddy_panel.py:117
+msgid "Finished"
+msgstr "Hoàn tất"
+
+#: mmm_modules/buddy_panel.py:119
+msgid "Gave up"
+msgstr "Chịu thua"
+
+#: mmm_modules/buddy_panel.py:121
+msgid "Unknown"
+msgstr "Không rõ"
+
+#: mmm_modules/buddy_panel.py:123
+#, python-format
+msgid "%i minutes"
+msgstr "%i phút"
+
+#: mmm_modules/i18n.py:36
+msgid "Chinese (simplified)"
+msgstr "Tiếng Trung (giản thể)"
+
+#: mmm_modules/i18n.py:37
+msgid "Chinese (traditional)"
+msgstr "Tiếng Trung (phồn thể)"
+
+#: mmm_modules/i18n.py:38
+msgid "Czech"
+msgstr "Tiếng Séc"
+
+#: mmm_modules/i18n.py:39
+msgid "Danish"
+msgstr "Tiếng Đan Mạch"
+
+#: mmm_modules/i18n.py:40
+msgid "Dutch"
+msgstr "Tiếng Hoà Lan"
+
+#: mmm_modules/i18n.py:41
+msgid "English"
+msgstr "Tiếng Anh"
+
+#: mmm_modules/i18n.py:42
+msgid "English - Great Britain"
+msgstr "Tiếng Anh (Quốc Anh)"
+
+#: mmm_modules/i18n.py:43
+msgid "English - U.S."
+msgstr "Tiếng Anh (Mỹ)"
+
+#: mmm_modules/i18n.py:44
+msgid "Finnish"
+msgstr "Tiếng Phần Lan"
+
+#: mmm_modules/i18n.py:45
+msgid "French"
+msgstr "Tiếng Pháp"
+
+#: mmm_modules/i18n.py:46
+msgid "German"
+msgstr "Tiếng Đức"
+
+#: mmm_modules/i18n.py:47
+msgid "Hungarian"
+msgstr "Tiếng Hung-ga-ri"
+
+#: mmm_modules/i18n.py:48
+msgid "Italian"
+msgstr "Tiếng Ý"
+
+#: mmm_modules/i18n.py:49
+msgid "Japanese"
+msgstr "Tiếng Nhật"
+
+#: mmm_modules/i18n.py:50
+msgid "Korean"
+msgstr "Tiếng Hàn"
+
+#: mmm_modules/i18n.py:51
+msgid "Norwegian"
+msgstr "Tiếng Na Uy"
+
+#: mmm_modules/i18n.py:52
+msgid "Polish"
+msgstr "Tiếng Ba Lan"
+
+#: mmm_modules/i18n.py:53
+msgid "Portuguese"
+msgstr "Tiếng Bồ Đào Nha"
+
+#: mmm_modules/i18n.py:54
+msgid "Portuguese - Brazilian"
+msgstr "Tiếng Bồ Đào Nha ở Bra-xin"
+
+#: mmm_modules/i18n.py:55
+msgid "Russian"
+msgstr "Tiếng Nga"
+
+#: mmm_modules/i18n.py:56
+msgid "Slovak"
+msgstr "Tiếng Xlô-vác"
+
+#: mmm_modules/i18n.py:57
+msgid "Spanish"
+msgstr "Tiếng Tây Ban Nha"
+
+#: mmm_modules/i18n.py:58
+msgid "Swedish"
+msgstr "Tiếng Thuỵ Điển"
+
+#: mmm_modules/i18n.py:59
+msgid "Turkish"
+msgstr "Tiếng Thổ Nhĩ Kỳ"
+
+#: mmm_modules/image_category.py:222
+msgid "Choose image"
+msgstr "Chọn ảnh"
+
+#: mmm_modules/image_category.py:234
+msgid "Not a valid image file"
+msgstr "Không phải tập tin ảnh hợp lệ"
+
+#, python-format
+#~ msgid "Buddy '%s' changed status: %s"
+#~ msgstr "Bạn bè « %s » mới thay đổi trạng thái: %s"
