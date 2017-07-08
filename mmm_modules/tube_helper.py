@@ -42,7 +42,6 @@ class TubeHelper (object):
 
         #bus = dbus.Bus()
 
-
         name, path = self.pservice.get_preferred_connection() or (None, None)
         self.tp_conn_name = name
         self.tp_conn_path = path
